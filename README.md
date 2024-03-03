@@ -22,6 +22,8 @@ Visualizar el mensaje: Una vez que hayas accedido al programa a través de tu na
 
 Autor:
 
-Luis Rosales\n
-angel.rosales@galileo.edu\n
+Luis Rosales
+
+angel.rosales@galileo.edu
+
 Carnet: 24000191
